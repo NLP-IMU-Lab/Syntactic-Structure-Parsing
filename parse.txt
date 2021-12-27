@@ -1,0 +1,3 @@
+[]TAN_A/Nt1  NOHOR/Ne1  TA/Rb+N/Zx-_A/Fc23  ./Wp1  
+[]TAN_A/Nt1  IR_E/Ve2+N_E/Fs21  ./Wp1  
+[]TAN_A/Nt1  NOHOR/Ne1-UN/Fc11  AJIL/Ne2  SAYIHAN/Ac  YABV/Ve2+GDA/Fe21+JV/Fn1  BAI/Vz2+N_A/Fs21  ./Wp1  
